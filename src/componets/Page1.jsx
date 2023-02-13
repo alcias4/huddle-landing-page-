@@ -1,6 +1,7 @@
 import './page1.css'
 
 export function Page1(){
+
     return <div className='page1'>
         <div  className='contePage1'>
             <h1>Build the community your fans will love</h1>
